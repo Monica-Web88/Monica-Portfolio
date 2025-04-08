@@ -1,4 +1,4 @@
-# Web-Portfolio-Monica
+# Monica-Portfolio
 My Web Portfolio containing my Work experience, Skills and Projects.
 
 And Deployed in GitHub
