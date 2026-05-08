@@ -284,9 +284,9 @@ span {
 .experience-box{
     background-size: cover;
     display: flex;
-    align-items: center;
-    justify-content: center;
-    flex-direction: column;
+    align-items: left;
+    justify-content: left;
+    flex-direction: row;
 }
 .experience .heading{
     margin-bottom: 5rem;
@@ -328,6 +328,29 @@ span {
 }
 .experience-item p{
     font-size: 1.8rem;
+}
+.ProjectTitle
+{
+    font-size: 20px;
+    font-weight: bold;
+    margin: 15px 0;
+}
+.project
+{
+    font-size: 14px;
+}
+.projectWork
+{
+    font-size: 15px;
+     color: rgb(39, 79, 93) ;
+     margin-top: 10px;
+}
+.projectName
+{
+    color:var(--main-color);
+    font-weight: bold;
+    
+    
 }
 #star{
     color: gold;
